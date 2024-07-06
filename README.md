@@ -19,9 +19,3 @@ having information about the page name, the main domain, the device type used to
 Exog_Campaign_eng: This file contains data for the dates which had a campaign or significant event that could affect the views for that day. The data is just for pages in English.
 
 There’s 1 for dates with campaigns and 0 for remaining dates. It is to be treated as an exogenous variable for models when training and forecasting data for pages in English
-
-Concepts Tested:
-
-Exploratory data analysis
-
-Time Series forecasting- ARIMA, SARIMAX, and Prophet
